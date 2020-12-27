@@ -1,0 +1,3 @@
+Hi new user!
+I am dXellor_tlg, telegram bot with various commands
+For help type /help

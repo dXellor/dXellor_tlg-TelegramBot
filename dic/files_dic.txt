@@ -1,0 +1,1 @@
+{'IT':'files/quotes/IT42_quotes.txt','DW':'files/quotes/DW_quotes.txt','E2':'files/quotes/E2_quotes.txt','ZA':'files/bus/zagrad.txt','IZ':'files/bus/izgrada.txt','STR':'files/messages/start.txt','HLP':'files/messages/help.txt'}
